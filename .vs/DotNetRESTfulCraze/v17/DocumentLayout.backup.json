@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "C:\\DotNet\\JIRARecap\\DotNetRESTfulCraze\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{40654D44-2784-4575-85F2-424FCD15E8F4}|DotNetRESTfulCraze.csproj|c:\\dotnet\\jirarecap\\dotnetrestfulcraze\\controllers\\productsexceptionmanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40654D44-2784-4575-85F2-424FCD15E8F4}|DotNetRESTfulCraze.csproj|solutionrelative:controllers\\productsexceptionmanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{40654D44-2784-4575-85F2-424FCD15E8F4}|DotNetRESTfulCraze.csproj|c:\\dotnet\\jirarecap\\dotnetrestfulcraze\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40654D44-2784-4575-85F2-424FCD15E8F4}|DotNetRESTfulCraze.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40654D44-2784-4575-85F2-424FCD15E8F4}|DotNetRESTfulCraze.csproj|c:\\dotnet\\jirarecap\\dotnetrestfulcraze\\controllers\\productsattributeroutingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40654D44-2784-4575-85F2-424FCD15E8F4}|DotNetRESTfulCraze.csproj|solutionrelative:controllers\\productsattributeroutingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{40654D44-2784-4575-85F2-424FCD15E8F4}|DotNetRESTfulCraze.csproj|c:\\dotnet\\jirarecap\\dotnetrestfulcraze\\controllers\\productsjwtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40654D44-2784-4575-85F2-424FCD15E8F4}|DotNetRESTfulCraze.csproj|solutionrelative:controllers\\productsjwtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40654D44-2784-4575-85F2-424FCD15E8F4}|DotNetRESTfulCraze.csproj|c:\\dotnet\\jirarecap\\dotnetrestfulcraze\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40654D44-2784-4575-85F2-424FCD15E8F4}|DotNetRESTfulCraze.csproj|solutionrelative:app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40654D44-2784-4575-85F2-424FCD15E8F4}|DotNetRESTfulCraze.csproj|c:\\dotnet\\jirarecap\\dotnetrestfulcraze\\handlers\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40654D44-2784-4575-85F2-424FCD15E8F4}|DotNetRESTfulCraze.csproj|solutionrelative:handlers\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40654D44-2784-4575-85F2-424FCD15E8F4}|DotNetRESTfulCraze.csproj|c:\\dotnet\\jirarecap\\dotnetrestfulcraze\\filters\\globalexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40654D44-2784-4575-85F2-424FCD15E8F4}|DotNetRESTfulCraze.csproj|solutionrelative:filters\\globalexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{40654D44-2784-4575-85F2-424FCD15E8F4}|DotNetRESTfulCraze.csproj|c:\\dotnet\\jirarecap\\dotnetrestfulcraze\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40654D44-2784-4575-85F2-424FCD15E8F4}|DotNetRESTfulCraze.csproj|solutionrelative:controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProductsAttributeRoutingController.cs",
-              "DocumentMoniker": "C:\\DotNet\\JIRARecap\\DotNetRESTfulCraze\\Controllers\\ProductsAttributeRoutingController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProductsAttributeRoutingController.cs",
-              "ToolTip": "C:\\DotNet\\JIRARecap\\DotNetRESTfulCraze\\Controllers\\ProductsAttributeRoutingController.cs",
-              "RelativeToolTip": "Controllers\\ProductsAttributeRoutingController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABqAAAAAAAAAA==",
+              "Title": "ProductsJWTController.cs",
+              "DocumentMoniker": "C:\\DotNet\\JIRARecap\\DotNetRESTfulCraze\\Controllers\\ProductsJWTController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsJWTController.cs",
+              "ToolTip": "C:\\DotNet\\JIRARecap\\DotNetRESTfulCraze\\Controllers\\ProductsJWTController.cs",
+              "RelativeToolTip": "Controllers\\ProductsJWTController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBEAAABpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T09:44:29.62Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductsExceptionManagerController.cs",
-              "DocumentMoniker": "C:\\DotNet\\JIRARecap\\DotNetRESTfulCraze\\Controllers\\ProductsExceptionManagerController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProductsExceptionManagerController.cs",
-              "ToolTip": "C:\\DotNet\\JIRARecap\\DotNetRESTfulCraze\\Controllers\\ProductsExceptionManagerController.cs",
-              "RelativeToolTip": "Controllers\\ProductsExceptionManagerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T09:44:25.029Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GlobalExceptionHandler.cs",
-              "DocumentMoniker": "C:\\DotNet\\JIRARecap\\DotNetRESTfulCraze\\Handlers\\GlobalExceptionHandler.cs",
-              "RelativeDocumentMoniker": "Handlers\\GlobalExceptionHandler.cs",
-              "ToolTip": "C:\\DotNet\\JIRARecap\\DotNetRESTfulCraze\\Handlers\\GlobalExceptionHandler.cs",
-              "RelativeToolTip": "Handlers\\GlobalExceptionHandler.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAqwCoAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T09:40:55.023Z",
+              "WhenOpened": "2025-08-12T12:21:29.07Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "WebApiConfig.cs",
-              "DocumentMoniker": "C:\\DotNet\\JIRARecap\\DotNetRESTfulCraze\\App_Start\\WebApiConfig.cs",
-              "RelativeDocumentMoniker": "App_Start\\WebApiConfig.cs",
-              "ToolTip": "C:\\DotNet\\JIRARecap\\DotNetRESTfulCraze\\App_Start\\WebApiConfig.cs",
-              "RelativeToolTip": "App_Start\\WebApiConfig.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAABcAAAA9AAAAAAAAAA==",
+              "Title": "TokenController.cs",
+              "DocumentMoniker": "C:\\DotNet\\JIRARecap\\DotNetRESTfulCraze\\Controllers\\TokenController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TokenController.cs",
+              "ToolTip": "C:\\DotNet\\JIRARecap\\DotNetRESTfulCraze\\Controllers\\TokenController.cs",
+              "RelativeToolTip": "Controllers\\TokenController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwBQAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T09:39:07.85Z",
+              "WhenOpened": "2025-08-12T12:18:50.782Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GlobalExceptionFilter.cs",
-              "DocumentMoniker": "C:\\DotNet\\JIRARecap\\DotNetRESTfulCraze\\Filters\\GlobalExceptionFilter.cs",
-              "RelativeDocumentMoniker": "Filters\\GlobalExceptionFilter.cs",
-              "ToolTip": "C:\\DotNet\\JIRARecap\\DotNetRESTfulCraze\\Filters\\GlobalExceptionFilter.cs",
-              "RelativeToolTip": "Filters\\GlobalExceptionFilter.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBMAAAAHAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\DotNet\\JIRARecap\\DotNetRESTfulCraze\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\DotNet\\JIRARecap\\DotNetRESTfulCraze\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T09:35:08.743Z",
+              "WhenOpened": "2025-08-12T11:57:33.108Z",
               "EditorCaption": ""
             }
           ]
