@@ -3,11 +3,35 @@
   "WorkspaceRootPath": "C:\\DotNet\\JIRARecap\\DotNetRESTfulCraze\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{40654D44-2784-4575-85F2-424FCD15E8F4}|DotNetRESTfulCraze.csproj|c:\\dotnet\\jirarecap\\dotnetrestfulcraze\\views\\productsmvcapi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40654D44-2784-4575-85F2-424FCD15E8F4}|DotNetRESTfulCraze.csproj|solutionrelative:views\\productsmvcapi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40654D44-2784-4575-85F2-424FCD15E8F4}|DotNetRESTfulCraze.csproj|c:\\dotnet\\jirarecap\\dotnetrestfulcraze\\controllers\\productsmvcapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40654D44-2784-4575-85F2-424FCD15E8F4}|DotNetRESTfulCraze.csproj|solutionrelative:controllers\\productsmvcapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40654D44-2784-4575-85F2-424FCD15E8F4}|DotNetRESTfulCraze.csproj|c:\\dotnet\\jirarecap\\dotnetrestfulcraze\\controllers\\productsconsumeinmvccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40654D44-2784-4575-85F2-424FCD15E8F4}|DotNetRESTfulCraze.csproj|solutionrelative:controllers\\productsconsumeinmvccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40654D44-2784-4575-85F2-424FCD15E8F4}|DotNetRESTfulCraze.csproj|c:\\dotnet\\jirarecap\\dotnetrestfulcraze\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40654D44-2784-4575-85F2-424FCD15E8F4}|DotNetRESTfulCraze.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40654D44-2784-4575-85F2-424FCD15E8F4}|DotNetRESTfulCraze.csproj|c:\\dotnet\\jirarecap\\dotnetrestfulcraze\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40654D44-2784-4575-85F2-424FCD15E8F4}|DotNetRESTfulCraze.csproj|solutionrelative:global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40654D44-2784-4575-85F2-424FCD15E8F4}|DotNetRESTfulCraze.csproj|c:\\dotnet\\jirarecap\\dotnetrestfulcraze\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40654D44-2784-4575-85F2-424FCD15E8F4}|DotNetRESTfulCraze.csproj|solutionrelative:controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{40654D44-2784-4575-85F2-424FCD15E8F4}|DotNetRESTfulCraze.csproj|c:\\dotnet\\jirarecap\\dotnetrestfulcraze\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40654D44-2784-4575-85F2-424FCD15E8F4}|DotNetRESTfulCraze.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40654D44-2784-4575-85F2-424FCD15E8F4}|DotNetRESTfulCraze.csproj|c:\\dotnet\\jirarecap\\dotnetrestfulcraze\\controllers\\productsv1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{40654D44-2784-4575-85F2-424FCD15E8F4}|DotNetRESTfulCraze.csproj|C:\\DotNet\\JIRARecap\\DotNetRESTfulCraze\\controllers\\productsv1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40654D44-2784-4575-85F2-424FCD15E8F4}|DotNetRESTfulCraze.csproj|solutionrelative:controllers\\productsv1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -22,11 +46,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\DotNet\\JIRARecap\\DotNetRESTfulCraze\\Views\\ProductsMVCAPI\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\ProductsMVCAPI\\Index.cshtml",
+              "ToolTip": "C:\\DotNet\\JIRARecap\\DotNetRESTfulCraze\\Views\\ProductsMVCAPI\\Index.cshtml",
+              "RelativeToolTip": "Views\\ProductsMVCAPI\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-12T14:04:22.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsMVCAPIController.cs",
+              "DocumentMoniker": "C:\\DotNet\\JIRARecap\\DotNetRESTfulCraze\\Controllers\\ProductsMVCAPIController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsMVCAPIController.cs",
+              "ToolTip": "C:\\DotNet\\JIRARecap\\DotNetRESTfulCraze\\Controllers\\ProductsMVCAPIController.cs",
+              "RelativeToolTip": "Controllers\\ProductsMVCAPIController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T14:00:35.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ProductsConsumeINMVCController.cs",
+              "DocumentMoniker": "C:\\DotNet\\JIRARecap\\DotNetRESTfulCraze\\Controllers\\ProductsConsumeINMVCController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsConsumeINMVCController.cs",
+              "ToolTip": "C:\\DotNet\\JIRARecap\\DotNetRESTfulCraze\\Controllers\\ProductsConsumeINMVCController.cs",
+              "RelativeToolTip": "Controllers\\ProductsConsumeINMVCController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAB0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T13:57:22.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\DotNet\\JIRARecap\\DotNetRESTfulCraze\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Global.asax.cs",
+              "ToolTip": "C:\\DotNet\\JIRARecap\\DotNetRESTfulCraze\\Global.asax.cs",
+              "RelativeToolTip": "Global.asax.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T13:53:25.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\DotNet\\JIRARecap\\DotNetRESTfulCraze\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\DotNet\\JIRARecap\\DotNetRESTfulCraze\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAEAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T13:37:14.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TokenController.cs",
+              "DocumentMoniker": "C:\\DotNet\\JIRARecap\\DotNetRESTfulCraze\\Controllers\\TokenController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TokenController.cs",
+              "ToolTip": "C:\\DotNet\\JIRARecap\\DotNetRESTfulCraze\\Controllers\\TokenController.cs",
+              "RelativeToolTip": "Controllers\\TokenController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T13:37:10.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "WebApiConfig.cs",
               "DocumentMoniker": "C:\\DotNet\\JIRARecap\\DotNetRESTfulCraze\\App_Start\\WebApiConfig.cs",
               "RelativeDocumentMoniker": "App_Start\\WebApiConfig.cs",
@@ -34,12 +136,11 @@
               "RelativeToolTip": "App_Start\\WebApiConfig.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAAACgAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T12:45:41.976Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-12T12:45:41.976Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\DotNet\\JIRARecap\\DotNetRESTfulCraze\\Startup.cs",
               "RelativeDocumentMoniker": "Startup.cs",
@@ -52,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "ProductsV1Controller.cs",
               "DocumentMoniker": "C:\\DotNet\\JIRARecap\\DotNetRESTfulCraze\\Controllers\\ProductsV1Controller.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductsV1Controller.cs",
@@ -60,8 +161,7 @@
               "RelativeToolTip": "Controllers\\ProductsV1Controller.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAuwCAAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T13:25:46.061Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-12T13:25:46.061Z"
             }
           ]
         }

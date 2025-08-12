@@ -1,0 +1,39 @@
+﻿@*
+    /*****************************************************************************************************
+    Writer       : Kiran Kumar J
+    Description  : Get to know about Creating Restful API with create new model Product and loading data from
+                   Controllers and Consume the API from MVC Front UI application
+    Created Date : 05 - August - 2025
+    Created By   : Kiran Kumar
+    Changed Date : 05 - August - 2025
+    Changed By   : Kiran Kumar
+    JIRA ID      : https://kiranjuvvanapudi.atlassian.net/browse/AMAECR-17
+    *****************************************************************************************************/
+*@
+
+@model List<DotNetRESTfulCraze.Models.Product>
+
+<h2>Products</h2>
+
+@if (Model != null && Model.Count > 0)
+{
+    <table class="table table-bordered">
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Price</th>
+        </tr>
+        @foreach (var p in Model)
+        {
+            <tr>
+                <td>@p.Id</td>
+                <td>@p.Name</td>
+                <td>@p.Price</td>
+            </tr>
+        }
+    </table>
+}
+else
+{
+    <p>No products found.</p>
+}

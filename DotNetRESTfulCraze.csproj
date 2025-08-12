@@ -238,9 +238,11 @@
     <Compile Include="Areas\HelpPage\XmlDocumentationProvider.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ProductsAttributeRoutingController.cs" />
+    <Compile Include="Controllers\ProductsConsumeINMVCController.cs" />
     <Compile Include="Controllers\ProductsController.cs" />
     <Compile Include="Controllers\ProductsExceptionManagerController.cs" />
     <Compile Include="Controllers\ProductsJWTController.cs" />
+    <Compile Include="Controllers\ProductsMVCAPIController.cs" />
     <Compile Include="Controllers\ProductsV1Controller.cs" />
     <Compile Include="Controllers\ProductsValidatedController.cs" />
     <Compile Include="Controllers\TokenController.cs" />
@@ -320,6 +322,7 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Shared\Error.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
+    <Content Include="Views\ProductsMVCAPI\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
