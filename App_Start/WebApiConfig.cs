@@ -1,5 +1,6 @@
 ﻿using DotNetRESTfulCraze.Filters;
 using DotNetRESTfulCraze.Handlers;
+using Swashbuckle.Application;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -34,6 +35,13 @@ JIRA ID      : https://kiranjuvvanapudi.atlassian.net/browse/AMAECR-10
                 routeTemplate: "api/{controller}/{id}",
                 defaults: new { id = RouteParameter.Optional }
             );
+
+            // Enable Swagger (configured separately)
+            //config.EnableSwagger(c =>
+            //{
+            //    c.SingleApiVersion("v1", "Product API");
+            //})
+            //.EnableSwaggerUi(); // Optional: enable UI
         }
     }
 }

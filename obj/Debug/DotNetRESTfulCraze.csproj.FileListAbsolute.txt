@@ -135,3 +135,5 @@ C:\DotNet\JIRARecap\DotNetRESTfulCraze\bin\System.Text.Json.xml
 C:\DotNet\JIRARecap\DotNetRESTfulCraze\bin\System.Threading.Tasks.Extensions.xml
 C:\DotNet\JIRARecap\DotNetRESTfulCraze\bin\System.ValueTuple.xml
 C:\DotNet\JIRARecap\DotNetRESTfulCraze\bin\System.Web.Http.Owin.xml
+C:\DotNet\JIRARecap\DotNetRESTfulCraze\bin\Swashbuckle.Core.dll
+C:\DotNet\JIRARecap\DotNetRESTfulCraze\bin\WebActivatorEx.dll
