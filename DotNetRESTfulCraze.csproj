@@ -241,6 +241,7 @@
     <Compile Include="Controllers\ProductsController.cs" />
     <Compile Include="Controllers\ProductsExceptionManagerController.cs" />
     <Compile Include="Controllers\ProductsJWTController.cs" />
+    <Compile Include="Controllers\ProductsV1Controller.cs" />
     <Compile Include="Controllers\ProductsValidatedController.cs" />
     <Compile Include="Controllers\TokenController.cs" />
     <Compile Include="Controllers\ValuesController.cs" />
