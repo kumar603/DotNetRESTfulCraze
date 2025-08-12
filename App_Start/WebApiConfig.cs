@@ -1,11 +1,14 @@
-﻿using System;
+﻿using DotNetRESTfulCraze.Filters;
+using DotNetRESTfulCraze.Handlers;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web.Http;
+using System.Web.Http.ExceptionHandling;
 
 namespace DotNetRESTfulCraze
 {
-    /*****************************************************************************************************
+/*****************************************************************************************************
 Writer       : Kiran Kumar J
 Description  : Get to know about Creating Restful API with create new model Product and loading data from
                Controllers and Configure the default route
@@ -21,7 +24,8 @@ JIRA ID      : https://kiranjuvvanapudi.atlassian.net/browse/AMAECR-10
         public static void Register(HttpConfiguration config)
         {
             // Web API configuration and services
-
+            config.Filters.Add(new GlobalExceptionFilter());
+            config.Services.Replace(typeof(IExceptionHandler), new GlobalExceptionHandler());
             // Web API routes
             config.MapHttpAttributeRoutes();
 
