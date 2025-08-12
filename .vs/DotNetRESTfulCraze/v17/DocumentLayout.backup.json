@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\DotNet\\JIRARecap\\DotNetRESTfulCraze\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{40654D44-2784-4575-85F2-424FCD15E8F4}|DotNetRESTfulCraze.csproj|c:\\dotnet\\jirarecap\\dotnetrestfulcraze\\controllers\\productsvalidatedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40654D44-2784-4575-85F2-424FCD15E8F4}|DotNetRESTfulCraze.csproj|solutionrelative:controllers\\productsvalidatedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{40654D44-2784-4575-85F2-424FCD15E8F4}|DotNetRESTfulCraze.csproj|c:\\dotnet\\jirarecap\\dotnetrestfulcraze\\controllers\\productsattributeroutingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40654D44-2784-4575-85F2-424FCD15E8F4}|DotNetRESTfulCraze.csproj|solutionrelative:controllers\\productsattributeroutingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40654D44-2784-4575-85F2-424FCD15E8F4}|DotNetRESTfulCraze.csproj|C:\\DotNet\\JIRARecap\\DotNetRESTfulCraze\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40654D44-2784-4575-85F2-424FCD15E8F4}|DotNetRESTfulCraze.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{40654D44-2784-4575-85F2-424FCD15E8F4}|DotNetRESTfulCraze.csproj|c:\\dotnet\\jirarecap\\dotnetrestfulcraze\\models\\productsvalidated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40654D44-2784-4575-85F2-424FCD15E8F4}|DotNetRESTfulCraze.csproj|solutionrelative:models\\productsvalidated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{40654D44-2784-4575-85F2-424FCD15E8F4}|DotNetRESTfulCraze.csproj|C:\\DotNet\\JIRARecap\\DotNetRESTfulCraze\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40654D44-2784-4575-85F2-424FCD15E8F4}|DotNetRESTfulCraze.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40654D44-2784-4575-85F2-424FCD15E8F4}|DotNetRESTfulCraze.csproj|C:\\DotNet\\JIRARecap\\DotNetRESTfulCraze\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40654D44-2784-4575-85F2-424FCD15E8F4}|DotNetRESTfulCraze.csproj|solutionrelative:controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,52 +31,54 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProductsValidatedController.cs",
+              "DocumentMoniker": "C:\\DotNet\\JIRARecap\\DotNetRESTfulCraze\\Controllers\\ProductsValidatedController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsValidatedController.cs",
+              "ToolTip": "C:\\DotNet\\JIRARecap\\DotNetRESTfulCraze\\Controllers\\ProductsValidatedController.cs",
+              "RelativeToolTip": "Controllers\\ProductsValidatedController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T08:47:51.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsValidated.cs",
+              "DocumentMoniker": "C:\\DotNet\\JIRARecap\\DotNetRESTfulCraze\\Models\\ProductsValidated.cs",
+              "RelativeDocumentMoniker": "Models\\ProductsValidated.cs",
+              "ToolTip": "C:\\DotNet\\JIRARecap\\DotNetRESTfulCraze\\Models\\ProductsValidated.cs",
+              "RelativeToolTip": "Models\\ProductsValidated.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T08:42:38.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ProductsAttributeRoutingController.cs",
               "DocumentMoniker": "C:\\DotNet\\JIRARecap\\DotNetRESTfulCraze\\Controllers\\ProductsAttributeRoutingController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductsAttributeRoutingController.cs",
               "ToolTip": "C:\\DotNet\\JIRARecap\\DotNetRESTfulCraze\\Controllers\\ProductsAttributeRoutingController.cs",
               "RelativeToolTip": "Controllers\\ProductsAttributeRoutingController.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAADwv04AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADwAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-12T07:48:57.186Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\DotNet\\JIRARecap\\DotNetRESTfulCraze\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\DotNet\\JIRARecap\\DotNetRESTfulCraze\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "Controllers\\ProductsController.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAuwDoAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T07:19:28.184Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\DotNet\\JIRARecap\\DotNetRESTfulCraze\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
               "ToolTip": "C:\\DotNet\\JIRARecap\\DotNetRESTfulCraze\\Models\\Product.cs",
               "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T07:12:59.433Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ValuesController.cs",
-              "DocumentMoniker": "C:\\DotNet\\JIRARecap\\DotNetRESTfulCraze\\Controllers\\ValuesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ValuesController.cs",
-              "ToolTip": "C:\\DotNet\\JIRARecap\\DotNetRESTfulCraze\\Controllers\\ValuesController.cs",
-              "RelativeToolTip": "Controllers\\ValuesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T07:12:05.712Z"
+              "WhenOpened": "2025-08-05T07:12:59.433Z",
+              "EditorCaption": ""
             }
           ]
         }
